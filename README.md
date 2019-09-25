@@ -1,1 +1,1 @@
-# -Social-Media-Observatory
+# Social Media Observatory
