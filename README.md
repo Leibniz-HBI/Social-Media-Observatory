@@ -12,7 +12,7 @@ If you have any new Information or a Tutorial you want to share. Please feel fre
 
 ## Seeking New Tasks
 
-Got some spare time? There is always something todo on our [Issue Tracker(https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) or in our [Project Overview](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1).  Feel free to assign yourself to one of the tasks. Please don’t forget to change the status of an Issue whenever it changes. 
+Got some spare time? There is always something todo on our [Issue Tracker](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) or in our [Project Overview](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1).  Feel free to assign yourself to one of the tasks. Please don’t forget to change the status of an Issue whenever it changes. 
 
 ## Mailing-List
 
