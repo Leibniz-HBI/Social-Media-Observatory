@@ -1,19 +1,19 @@
 # Social Media Observatory
 
-Dieses Repository ist die zentrale Kommunikationsschnittstelle für das SMO.
+This Repository is designed to be the central communication interfacer for the Social Media Observatory. 
 
-## Fragen und Aufgaben
+## Issues and Tasks
 
-Bitte ein [Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) anlegen.
+Got any open Questions or a new Task that needs to be addressed? Just create and add an Issue.
 
-## Transfer-Wissen
+## Knowledge
 
-Bitte im [Wiki](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki) festhalten.
+If you have any new Information or a Tutorial you want to share. Please feel free to add it to our [Wiki Page](LINK).
 
-## Neue Aufgaben suchen
+## Seeking New Tasks
 
-Aufgabe erledigt, oder Abwechslung gefällig? Entweder im [Issue-Tracker](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) oder in der [Projekt-Übersicht](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1) findet sich sicher etwas. Sich selbst assignen und in der Übersicht auf 'In Progress' schieben nicht vergessen, damit nichts doppelt bearbeitet wird.
+Got some spare time? There is always something todo on our [Issue Tracker(https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) or in our [Project Overview](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1).  Feel free to assign yourself to one of the tasks. Please don’t forget to change the status of an Issue whenever it changes. 
 
-## Mailing-Liste
+## Mailing-List
 
-https://www.listserv.dfn.de/sympa/info/smo-fgz
+To add yourself to our mailing list, simply follow [this Link](https://www.listserv.dfn.de/sympa/info/smo-fgz)
