@@ -1,14 +1,14 @@
 # Social Media Observatory
 
-This Repository is designed to be the central communication interfacer for the Social Media Observatory. 
+This repository is designed to be the central communication interfacer for the Social Media Observatory. 
 
 ## Issues and Tasks
 
-Got any open Questions or a new Task that needs to be addressed? Just create and add an Issue.
+Got any open questions or a new task that needs to be addressed? Just create and add an Issue.
 
 ## Knowledge
 
-If you have any new Information or a Tutorial you want to share. Please feel free to add it to our [Wiki Page](LINK).
+If you have any new information or a tutorial you want to share. Please feel free to add it to our [Wiki Page](LINK).
 
 ## Seeking New Tasks
 
