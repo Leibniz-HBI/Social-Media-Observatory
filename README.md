@@ -4,11 +4,11 @@ This repository is designed to be the central communication interfacer for the S
 
 ## Issues and Tasks
 
-Got any open questions or a new task that needs to be addressed? Just create and add an Issue.
+Got any open questions or a new task that needs to be addressed? Just [create and add an Issue](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues).
 
 ## Knowledge
 
-If you have any new information or a tutorial you want to share. Please feel free to add it to our [Wiki Page](LINK).
+If you have any new information or a tutorial you want to share. Please feel free to add it to our [Wiki Page](https://github.com/Leibniz-HBI/Social-Media-Observatory/wiki).
 
 ## Seeking New Tasks
 
