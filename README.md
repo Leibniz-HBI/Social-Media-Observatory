@@ -18,4 +18,4 @@ Got some spare time? There is always something to do on our [Issue Tracker](http
 
 ## Mailing-List
 
-To add yourself to our mailing list, simply follow [this Link](https://www.listserv.dfn.de/sympa/info/smo-fgz)
+To add yourself to our mailing list, simply follow [this link](https://www.listserv.dfn.de/sympa/info/smo-fgz)
