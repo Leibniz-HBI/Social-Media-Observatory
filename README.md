@@ -19,3 +19,7 @@ Got some spare time? There is always something to do on our [Issue Tracker](http
 ## Mailing-List
 
 To add yourself to our mailing list, simply follow [this link](https://www.listserv.dfn.de/sympa/info/smo-fgz)
+
+## Code of Conduct
+
+By contributing to this repository (this includes use of the issue tracker) you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
