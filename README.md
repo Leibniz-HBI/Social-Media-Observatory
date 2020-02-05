@@ -22,7 +22,7 @@ To add yourself to our mailing list, simply follow [this link](https://www.lists
 
 ## Code of Conduct
 
-By contributing to this repository (this includes use of the issue tracker) you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this repository (this includes use of the issue tracker) you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md) and the [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
