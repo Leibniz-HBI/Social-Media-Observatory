@@ -23,3 +23,8 @@ To add yourself to our mailing list, simply follow [this link](https://www.lists
 ## Code of Conduct
 
 By contributing to this repository (this includes use of the issue tracker) you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Unless otherwise noted, works within the Social Media Observatory Repository</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://leibniz-hbi.de" property="cc:attributionName" rel="cc:attributionURL">Leibniz Institute for Media Research | Hans-Bredow-Institute</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
