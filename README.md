@@ -1,6 +1,6 @@
 # Social Media Observatory
 
-This repository is the central communication and project management interface for the Social Media Observatory hosted by the Leibniz Institute for Media Research | Hans-Bredow-Institute (https://leibniz-hbi.de). It is meant to become an open and welcoming support ressource and knowledge exchange hub for researchers and journalists interested in and working with (social) media data.
+This repository is the central communication and project management interface for the [Social Media Observatory](https://leibniz-hbi.github.io/SMO/) hosted by the Leibniz Institute for Media Research | Hans-Bredow-Institute (https://leibniz-hbi.de). It is meant to become an open and welcoming support ressource and knowledge exchange hub for researchers and journalists interested in and working with (social) media data.
 
 A landing page describing the goals and the concept of the SMO in detail will be available in early 2020.
 
