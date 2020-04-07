@@ -14,7 +14,11 @@ Please feel free to add any documentation, knowledge pieces, and tutorials to ou
 
 ## Seeking New Tasks
 
-Got some spare time? There is always something to do on our [Issue Tracker](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) or in our [Project Overview](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1).  Feel free to assign yourself to one of the tasks. Please don’t forget to change the status of an Issue whenever it changes. 
+Got some spare time? There is always something to do on our [Issue Tracker](https://github.com/Leibniz-HBI/Social-Media-Observatory/issues) or in our [Project Overview](https://github.com/Leibniz-HBI/Social-Media-Observatory/projects/1). 
+
+Tasks should be prioritised by [milestone due dates](https://github.com/Leibniz-HBI/Social-Media-Observatory/milestones?direction=asc&sort=due_date&state=open).
+
+Feel free to assign yourself to one of the tasks. Please don’t forget to change the status of an Issue whenever it changes. 
 
 ## Mailing-List
 
